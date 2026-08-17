@@ -1,3 +1,5 @@
 # Data Model
 
-This document will describe the information TripCraft manages and the relationships among its data concepts.
+This document will translate the domain model into persistent data structures, fields, relationships, and invariants.
+
+## Open Questions

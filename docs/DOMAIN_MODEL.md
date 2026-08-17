@@ -1,3 +1,5 @@
 # Domain Model
 
-This document will define the concepts, terminology, relationships, and rules within the TripCraft domain.
+This document will define the project's conceptual domain entities, relationships, terminology, and rules independently of storage design.
+
+## Open Questions

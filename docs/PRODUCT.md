@@ -1,4 +1,5 @@
-
 # Product
 
-This document will describe the TripCraft product vision, intended users, goals, and scope.
+This document will define the product problem, vision, intended users, value, scope, principles, major capabilities, non-goals, and future direction.
+
+## Open Questions

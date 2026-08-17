@@ -1,3 +1,5 @@
 # User Flows
 
-This document will describe the key journeys and interactions users may have with TripCraft.
+This document will describe important user workflows step-by-step before interface or implementation decisions are made.
+
+## Open Questions

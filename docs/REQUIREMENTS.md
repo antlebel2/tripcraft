@@ -1,3 +1,5 @@
 # Requirements
 
-This document will record the functional and non-functional requirements for TripCraft.
+This document will express product behavior as explicit, testable functional and non-functional requirements.
+
+## Open Questions

@@ -1,4 +1,3 @@
-
 # TripCraft
 
-This document provides an overview of the TripCraft project and directs readers to its supporting documentation.
+This document is the front door to the TripCraft repository and will orient readers to the project and its documentation.

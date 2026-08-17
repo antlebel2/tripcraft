@@ -1,3 +1,5 @@
 # Testing
 
-This document will describe the quality strategy and testing expectations for TripCraft.
+This document will define the project's testing strategy, quality gates, and definition of done.
+
+## Open Questions

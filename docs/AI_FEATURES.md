@@ -1,3 +1,5 @@
 # AI Features
 
-This document will describe the purpose, scope, behavior, and constraints of any AI-assisted TripCraft capabilities.
+This document will define the behavior, inputs, outputs, validation, failure handling, approval, persistence, and security boundaries of AI capabilities.
+
+## Open Questions

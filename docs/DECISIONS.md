@@ -1,3 +1,5 @@
 # Decisions
 
-This document will record significant product and architecture decisions, including their context and rationale.
+This document will record meaningful product and technical decisions, their rationale, and alternatives considered.
+
+## Open Questions

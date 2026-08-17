@@ -1,3 +1,5 @@
 # Implementation Plan
 
-This document will organize the future implementation of TripCraft into an ordered and trackable plan.
+This document will organize future work into milestones, epics, features, and small executable tasks after planning decisions are established.
+
+## Open Questions

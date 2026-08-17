@@ -1,3 +1,5 @@
 # Security
 
-This document will describe the security, privacy, and risk considerations relevant to TripCraft.
+This document will record the project's security, privacy, ownership, authorization, trust-boundary, secrets, abuse-prevention, and logging expectations.
+
+## Open Questions
